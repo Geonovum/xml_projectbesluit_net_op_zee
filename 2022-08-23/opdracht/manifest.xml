@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- created by OpenOmgevingswet -->
+<manifest xmlns="http://www.overheid.nl/2017/lvbb" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.overheid.nl/2017/lvbb ../lvbb/lvbb-transport.xsd">
+
+<bestand>
+    <bestandsnaam>manifest.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>regelingsgebied.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>manifest-ow.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>locaties_tijdelijkdeelB.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_HoogspanningsverbindingC.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_Projectgebied2.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>HoogspanningsverbindingC.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>opdracht.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_Converterstation.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>Hoogspanningsverbinding.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>regelingsgebied_tijdelijkdeelC.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_Projectgebied3.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_HoogspanningsverbindingB.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>locaties_tijdelijkdeelC.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_ConverterstationB.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>divisies.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image11.jpeg</bestandsnaam>
+    <contentType>image/jpeg</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>Converterstation.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gebiedsaanwijzingenB.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>regelsregeltekstenB.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image3.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image4.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image9.jpeg</bestandsnaam>
+    <contentType>image/jpeg</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>HoogspanningsverbindingB.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image7.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>regelingsgebied_tijdelijkdeelB.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>Projectgebied3.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image5.jpeg</bestandsnaam>
+    <contentType>image/jpeg</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>bijlage_1_image2.jpeg</bestandsnaam>
+    <contentType>image/jpeg</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>locaties.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image6.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image1.jpeg</bestandsnaam>
+    <contentType>image/jpeg</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>bijlage_1_image1.jpeg</bestandsnaam>
+    <contentType>image/jpeg</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>ConverterstationB.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_Bouwaanduiding.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>Bouwaanduiding.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>tekstdelen.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>besluit.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>Projectgebied2.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>regelsregeltekstenC.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gebiedsaanwijzingen.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image2.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>Projectgebied.gml</bestandsnaam>
+    <contentType>application/gml+xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_Projectgebied.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image10.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>image8.png</bestandsnaam>
+    <contentType>image/png</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gio_Hoogspanningsverbinding.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+<bestand>
+    <bestandsnaam>gebiedsaanwijzingenC.xml</bestandsnaam>
+    <contentType>application/xml</contentType>
+</bestand>
+
+</manifest>
