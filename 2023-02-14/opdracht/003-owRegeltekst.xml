@@ -42,6 +42,17 @@
                <r:locatieaanduiding>
                   <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00320221215000001"/>
                </r:locatieaanduiding>
+               <!-- omdat er ook naar een bovenliggende activiteit een verwijzing moet zijn, heb ik deze gekoppeld aan het eerste artikel -->
+               <r:activiteitaanduiding>
+                  <rol:ActiviteitRef xlink:href="nl.imow-mnre1045.activiteit.00320221215000000"/>
+                  <r:ActiviteitLocatieaanduiding>
+                     <r:identificatie>nl.imow-mnre1045.activiteitlocatieaanduiding.000000000000000000000000000</r:identificatie>
+                     <r:activiteitregelkwalificatie>http://standaarden.omgevingswet.overheid.nl/activiteitregelkwalificatie/id/concept/AndersGeduid</r:activiteitregelkwalificatie>
+                     <r:locatieaanduiding>
+                        <l:LocatieRef xlink:href="nl.imow-mnre1045.gebiedengroep.00320221215000001"/>
+                     </r:locatieaanduiding>
+                  </r:ActiviteitLocatieaanduiding>
+               </r:activiteitaanduiding>
             </r:RegelVoorIedereen>
          </ow-dc:owObject>
       </sl:stand>
