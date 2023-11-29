@@ -1,0 +1,123 @@
+/*
+@font-face{font-family:'corpidoffice-regular';src:url("fonts/corpidoffice-regular.eot");src:url("fonts/corpidoffice-regular.eot?#iefix") format("embedded-opentype"),url("fonts/corpidoffice-regular.woff2") format("woff2"),url("fonts/corpidoffice-regular.woff") format("woff"),url("fonts/corpidoffice-regular.ttf") format("truetype"),url("fonts/corpidoffice-regular.svg#svgFontName") format("svg")}.mfp-counter{font-family:corpidoffice-regular,serif}
+*/
+
+body {
+   min-width: 836px !important;
+}
+
+/**** element styles ****/
+hr { border-color: #cccccc; margin: 0px; }
+
+/**** header, main and footer divs ****/
+.header-title { font-size: 30px; }
+
+.header-logo {
+    background-image: url("https://landgoed.services/style/img/Landgoed_goud_klein.png");
+    background-repeat: no-repeat;
+    background-color: #ff9047;
+    height: 140px;
+    min-width: 836px;
+}
+
+
+/**** class-based style modifiers ****/
+
+.no-padding { padding: 0 !important; }
+
+.no-margins { margin: 0px; }
+
+.with-margins { margin: 10px; }
+
+.col-centered { float: none; margin: 0 auto; }
+
+.panel-body  {
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+.in-line {
+    display: inline;
+}
+
+/* https://stackoverflow.com/questions/14793367/how-to-add-a-spinner-icon-to-button-when-its-in-the-loading-state */
+
+.glyphicon.spinning {
+    animation: spin 1s infinite linear;
+    -webkit-animation: spin2 1s infinite linear;
+}
+
+@keyframes spin {
+    from { transform: scale(1) rotate(0deg); }
+    to { transform: scale(1) rotate(360deg); }
+}
+
+@-webkit-keyframes spin2 {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+
+
+.alert .glyphicon{
+    float:left;
+    margin-right:9px;
+}
+
+.alert div{
+    overflow:hidden;
+}
+
+.gi-2x{font-size: 2em;}
+.gi-3x{font-size: 3em;}
+.gi-4x{font-size: 4em;}
+.gi-5x{font-size: 5em;}
+
+.btn-landgoed { 
+  color: #FFFFFF; 
+  background-color: #FF9047; 
+  border-color: #FF9047; 
+} 
+ 
+.btn-landgoed:hover, 
+.btn-landgoed:focus, 
+.btn-landgoed:active, 
+.btn-landgoed.active, 
+.open .dropdown-toggle.btn-landgoed { 
+  color: #FFFFFF; 
+  background-color: #EE8036; 
+  border-color: #FF9047; 
+} 
+ 
+.btn-landgoed:active, 
+.btn-landgoed.active, 
+.open .dropdown-toggle.btn-landgoed { 
+  background-image: none; 
+} 
+ 
+.btn-landgoed.disabled, 
+.btn-landgoed[disabled], 
+fieldset[disabled] .btn-landgoed, 
+.btn-landgoed.disabled:hover, 
+.btn-landgoed[disabled]:hover, 
+fieldset[disabled] .btn-landgoed:hover, 
+.btn-landgoed.disabled:focus, 
+.btn-landgoed[disabled]:focus, 
+fieldset[disabled] .btn-landgoed:focus, 
+.btn-landgoed.disabled:active, 
+.btn-landgoed[disabled]:active, 
+fieldset[disabled] .btn-landgoed:active, 
+.btn-landgoed.disabled.active, 
+.btn-landgoed[disabled].active, 
+fieldset[disabled] .btn-landgoed.active { 
+  background-color: #FF9047; 
+  border-color: #FF9047; 
+} 
+ 
+.btn-landgoed .badge { 
+  color: #FF9047; 
+  background-color: #FFFFFF; 
+}
+
+.ozon ul {
+    list-style-type: none;
+}

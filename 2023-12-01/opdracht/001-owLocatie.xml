@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ow-dc:owBestand xmlns:da="http://www.geostandaarden.nl/imow/datatypenalgemeen"
+                 xmlns:ga="http://www.geostandaarden.nl/imow/gebiedsaanwijzing"
+                 xmlns:k="http://www.geostandaarden.nl/imow/kaart"
+                 xmlns:l="http://www.geostandaarden.nl/imow/locatie"
+                 xmlns:ow="http://www.geostandaarden.nl/imow/owobject"
+                 xmlns:ow-dc="http://www.geostandaarden.nl/imow/bestanden/deelbestand"
+                 xmlns:p="http://www.geostandaarden.nl/imow/pons"
+                 xmlns:r="http://www.geostandaarden.nl/imow/regels"
+                 xmlns:rg="http://www.geostandaarden.nl/imow/regelingsgebied"
+                 xmlns:rol="http://www.geostandaarden.nl/imow/regelsoplocatie"
+                 xmlns:sl="http://www.geostandaarden.nl/bestanden-ow/standlevering-generiek"
+                 xmlns:vt="http://www.geostandaarden.nl/imow/vrijetekst"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:schemaLocation="http://www.geostandaarden.nl/imow/bestanden/deelbestand https://register.geostandaarden.nl/xmlschema/tpod/v2.0.0/bestanden-ow/deelbestand-ow/IMOW_Deelbestand.xsd">
+   <sl:standBestand>
+      <sl:dataset>Intrekking Projectbesluit Net op zee IJmuiden Ver Beta</sl:dataset>
+      <sl:inhoud>
+         <sl:gebied>Ministerie van Economische Zaken en Klimaat</sl:gebied>
+         <sl:leveringsId>OOW-intrekking-projectbesluit-A32_2023-11-29</sl:leveringsId>
+         <sl:objectTypen>
+            <sl:objectType>Ambtsgebied</sl:objectType>
+            <sl:objectType>Gebiedengroep</sl:objectType>
+            <sl:objectType>Gebied</sl:objectType>
+         </sl:objectTypen>
+      </sl:inhoud>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Ambtsgebied>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.ambtsgebied.00120221215000001</l:identificatie>
+               <l:noemer>Ministerie van Economische Zaken en Klimaat</l:noemer>
+               <l:bestuurlijkeGrenzenVerwijzing>
+                  <l:BestuurlijkeGrenzenVerwijzing>
+                     <l:bestuurlijkeGrenzenID>LND6030.B</l:bestuurlijkeGrenzenID>
+                     <l:domein>NL.BI.BestuurlijkGebied</l:domein>
+                     <l:geldigOp>2021-01-01</l:geldigOp>
+                  </l:BestuurlijkeGrenzenVerwijzing>
+               </l:bestuurlijkeGrenzenVerwijzing>
+            </l:Ambtsgebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00120221215000001</l:identificatie>
+               <l:noemer>Hoogspanningsverbinding</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00120221215000001"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--001-hoogspanningsverbinding.gml-->
+            <l:Gebied>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebied.00120221215000001</l:identificatie>
+               <l:noemer>Hoogspanningsverbinding</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="5fbaa2cb-e7d1-4f19-8793-0f2771870421"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00120221215000002</l:identificatie>
+               <l:noemer>Hoogspanningstracé op zee</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00120221215000002"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--001-hoogspanningstraceopzee.gml-->
+            <l:Gebied>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebied.00120221215000002</l:identificatie>
+               <l:noemer>Hoogspanningstracé op zee</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="34752b32-cd69-40ad-9d50-42db11113bd7"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00120221215000003</l:identificatie>
+               <l:noemer>Hoogspanningstracé op land</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00120221215000003"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--hoogspanningstraceopland.gml-->
+            <l:Gebied>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebied.00120221215000003</l:identificatie>
+               <l:noemer>Hoogspanningstracé op land</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="6f667ace-ad8d-4254-a584-dd3456c8293b"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00120221215000004</l:identificatie>
+               <l:noemer>Converterstation</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00120221215000004"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--001-converterstation.gml-->
+            <l:Gebied>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebied.00120221215000004</l:identificatie>
+               <l:noemer>Converterstation</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="b1dc3799-3807-4f2b-9319-b28727a6f81e"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject>
+            <l:Gebiedengroep>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebiedengroep.00120221215000005</l:identificatie>
+               <l:noemer>Projectgebied</l:noemer>
+               <l:groepselement>
+                  <l:GebiedRef xlink:href="nl.imow-mnre1045.gebied.00120221215000005"/>
+               </l:groepselement>
+            </l:Gebiedengroep>
+         </ow-dc:owObject>
+      </sl:stand>
+      <sl:stand>
+         <ow-dc:owObject><!--001-projectgebied.gml-->
+            <l:Gebied>
+               <!-- gewijzigd 2023=11-29 -->
+               <ow:status>beëindigen</ow:status>
+               <l:identificatie>nl.imow-mnre1045.gebied.00120221215000005</l:identificatie>
+               <l:noemer>Projectgebied</l:noemer>
+               <l:geometrie>
+                  <l:GeometrieRef xlink:href="1a26d492-fb86-4087-a707-997fddfea55c"/>
+               </l:geometrie>
+            </l:Gebied>
+         </ow-dc:owObject>
+      </sl:stand>
+   </sl:standBestand>
+</ow-dc:owBestand>

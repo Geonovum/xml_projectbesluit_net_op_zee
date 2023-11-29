@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AanleveringBesluit xmlns="https://standaarden.overheid.nl/lvbb/stop/aanlevering/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:dso="https://www.dso.nl/"
+  schemaversie="1.2.0"
+  xsi:schemaLocation="https://standaarden.overheid.nl/lvbb/stop/aanlevering https://standaarden.overheid.nl/lvbb/1.2.0/lvbb-stop-aanlevering.xsd">
+  <BesluitVersie>
+    <ExpressionIdentificatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <FRBRWork>/akn/nl/bill/mnre1045/2023/OOW-intrekking-projectbesluit-A32</FRBRWork>
+      <FRBRExpression>/akn/nl/bill/mnre1045/2023/OOW-intrekking-projectbesluit-A32/nld@2023-11-29;1</FRBRExpression>
+      <soortWork>/join/id/stop/work_003</soortWork>
+    </ExpressionIdentificatie>
+    <BesluitMetadata xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <eindverantwoordelijke>/tooi/id/ministerie/mnre1045</eindverantwoordelijke>
+      <maker>/tooi/id/ministerie/mnre1045</maker>
+      <soortBestuursorgaan>/tooi/def/thes/kern/c_bcfb7b4e</soortBestuursorgaan>
+      <officieleTitel>Intrekking Projectbesluit Net op zee IJmuiden Ver Beta</officieleTitel>
+      <grondslagen>
+        <grondslag>
+          <TekstReferentie>
+            <uri>jcil.31:c:BWBR0037885&amp;artikel=5.44</uri>
+            <label>Artikel 5.44 Omgevingswet</label>
+            <soortRef>JCI</soortRef>
+          </TekstReferentie>
+        </grondslag>
+      </grondslagen>
+      <onderwerpen>
+        <onderwerp>/tooi/def/concept/c_cfc7d5ab</onderwerp>
+      </onderwerpen>
+      <rechtsgebieden>
+        <rechtsgebied>/tooi/def/concept/c_8ad05f6d</rechtsgebied>
+        <rechtsgebied>/tooi/def/concept/c_638d8062</rechtsgebied>
+      </rechtsgebieden>
+      <soortProcedure>/join/id/stop/proceduretype_definitief</soortProcedure>
+    </BesluitMetadata>
+    <Procedureverloop xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <bekendOp>2023-03-29</bekendOp>
+      <ontvangenOp>2023-03-29</ontvangenOp>
+      <procedurestappen>
+        <Procedurestap>
+          <soortStap>/join/id/stop/procedure/stap_002</soortStap>
+          <voltooidOp>2023-03-29</voltooidOp>
+        </Procedurestap>
+        <Procedurestap>
+          <soortStap>/join/id/stop/procedure/stap_003</soortStap>
+          <voltooidOp>2023-03-29</voltooidOp>
+        </Procedurestap>
+      </procedurestappen>
+    </Procedureverloop>
+    <ConsolidatieInformatie xmlns="https://standaarden.overheid.nl/stop/imop/data/">
+      <Intrekkingen>
+        <Intrekking>
+          <doelen>
+            <doel>/join/id/proces/mnre1045/2023/Intrekking-projectbesluit-A32</doel>
+          </doelen>
+          <instrument>/akn/nl/act/mnre1045/2022/OOW-projectbesluit-A32-001</instrument>
+          <eId>art_I</eId>
+        </Intrekking>
+        <Intrekking>
+          <doelen>
+            <doel>/join/id/proces/mnre1045/2023/Intrekking-projectbesluit-A32</doel>
+          </doelen>
+          <instrument>/akn/nl/act/mnre1045/2022/OOW-projectbesluit-A32-002</instrument>
+          <eId>art_I</eId>
+        </Intrekking>
+        <Intrekking>
+          <doelen>
+            <doel>/join/id/proces/mnre1045/2023/Intrekking-projectbesluit-A32</doel>
+          </doelen>
+          <instrument>/akn/nl/act/mnre1045/2022/OOW-projectbesluit-A32-003</instrument>
+          <eId>art_I</eId>
+        </Intrekking>
+      </Intrekkingen>
+      <Tijdstempels>
+        <Tijdstempel>
+          <doel>/join/id/proces/mnre1045/2023/Intrekking-projectbesluit-A32</doel>
+          <soortTijdstempel>juridischWerkendVanaf</soortTijdstempel>
+          <datum>2023-12-01</datum>
+          <eId>art_II</eId>
+        </Tijdstempel>
+      </Tijdstempels>
+    </ConsolidatieInformatie>
+    <BesluitCompact xmlns="https://standaarden.overheid.nl/stop/imop/tekst/">
+      <RegelingOpschrift eId="longTitle" wId="longTitle">
+        <Al>Intrekking Projectbesluit Net op zee IJmuiden Ver Beta</Al>
+      </RegelingOpschrift>
+      <Lichaam eId="body" wId="body">
+        <Artikel eId="art_I" wId="mnre1045_1__art_I">
+          <Kop>
+            <Label>Artikel</Label>
+            <Nummer>I</Nummer>
+          </Kop>
+          <Inhoud>
+            <Al>Door deze intrekking wordt ‘Projectbesluit Net op zee IJmuiden Ver Beta’, met alle tijdelijk regelingdelen en alle GIO’s ingetrokken.</Al>
+          </Inhoud>
+        </Artikel>
+        <Artikel eId="art_II" wId="mnre1045_1__art_II">
+          <Kop>
+            <Label>Artikel</Label>
+            <Nummer>II</Nummer>
+          </Kop>
+          <Inhoud>
+            <Al>De datum inwerkingtreding van dit besluit is 1 december 2023.</Al>
+          </Inhoud>
+        </Artikel>
+      </Lichaam>
+    </BesluitCompact>
+  </BesluitVersie>
+</AanleveringBesluit>
